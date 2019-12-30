@@ -14,6 +14,10 @@
   <properties>
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
+    <sonar.projectKey>meenakshi-saripalli_hello-world-1</sonar.projectKey>
+    <sonar.organization>meenakshi-saripalli</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    <sonar.login>55e428a16cd05e2a62961f4c4722bdcb10dfe179</sonar.login>   
   </properties>
 
   <modules>
